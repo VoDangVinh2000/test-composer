@@ -1,27 +1,5 @@
 {
     "require": {
-        
+        "back-end/test-composer" : "^1.0"
     }
-
-		"name": "back-end/test-composer",	
-		"description": "Liên kết với packagist và github với nhau",	
-		"keywords": [	
-	],	
-		"authors": [	
-	{	
-		"name": "Võ Đăng Vĩnh",	
-		"email": "01686228222vinh@gmail.com",	
-		"homepage": "https://github.com/VoDangVinh2000/test-composer"	
-	}	
-	],	
-		"license": "MIT",	
-		"require": {	
-	},	
-		"autoload": {	
-		"psr-4": {	
-			"Backend\\Testcomposer\\": "/"
-		}	
-	},	
-		"minimum-stability": "dev"	
-
 }
