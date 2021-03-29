@@ -1,6 +1,6 @@
 {
     "require": {
-        "back-end/test-composer": "^1.0"
+        "back-end/test-composer": "1.0"
     }
 		{	
 		"name": "back-end/test-composer",	
