@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "98644efb3007ddbb61e00338595f643e",
+    "packages": [
+        {
+            "name": "back-end/test-composer",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/VoDangVinh2000/test-composer.git",
+                "reference": "3868b80972bb08935746115a16df9cbb751a30f5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/VoDangVinh2000/test-composer/zipball/3868b80972bb08935746115a16df9cbb751a30f5",
+                "reference": "3868b80972bb08935746115a16df9cbb751a30f5",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Backend\\Testcomposer\\": "/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Võ Đăng Vĩnh",
+                    "email": "01686228222vinh@gmail.com",
+                    "homepage": "https://github.com/VoDangVinh2000/test-composer"
+                }
+            ],
+            "description": "Liên kết với packagist và github với nhau",
+            "support": {
+                "issues": "https://github.com/VoDangVinh2000/test-composer/issues",
+                "source": "https://github.com/VoDangVinh2000/test-composer/tree/1.0.0"
+            },
+            "time": "2021-03-29T10:28:13+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
