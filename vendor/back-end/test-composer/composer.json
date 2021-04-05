@@ -12,9 +12,9 @@
 	],	
 		"license": "MIT",	
 		"require": {	
-			"nhikhang2000/web2-week3",
-			"vovantruong/back-end-web-2",
-			"binbo0317/tranvankiet_be2"
+			"nhikhang2000/web2-week3" : "*",
+			"vovantruong/back-end-web-2" : "*",
+			"binbo0317/tranvankiet_be2" : "*"
 	},	
 		"autoload": {	
 		"psr-4": {	
